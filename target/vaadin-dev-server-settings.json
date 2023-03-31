@@ -1,0 +1,18 @@
+{
+  "frontendFolder": "C:/Users/Grzesiek/Desktop/my-app/my-app/frontend",
+  "themeFolder": "themes",
+  "themeResourceFolder": "C:/Users/Grzesiek/Desktop/my-app/my-app/frontend/generated/jar-resources",
+  "staticOutput": "C:/Users/Grzesiek/Desktop/my-app/my-app/target/classes/META-INF/VAADIN/webapp/VAADIN/static",
+  "generatedFolder": "generated",
+  "statsOutput": "C:\\Users\\Grzesiek\\Desktop\\my-app\\my-app\\target\\classes\\META-INF\\VAADIN\\config",
+  "frontendBundleOutput": "C:\\Users\\Grzesiek\\Desktop\\my-app\\my-app\\target\\classes\\META-INF\\VAADIN\\webapp",
+  "devBundleOutput": "C:/Users/Grzesiek/Desktop/my-app/my-app/src/main/dev-bundle/webapp",
+  "devBundleStatsOutput": "C:/Users/Grzesiek/Desktop/my-app/my-app/src/main/dev-bundle/config",
+  "jarResourcesFolder": "C:/Users/Grzesiek/Desktop/my-app/my-app/frontend/generated/jar-resources",
+  "generatedFlowImportsFolder": "target/frontend",
+  "themeName": "myapp",
+  "clientServiceWorkerSource": "C:\\Users\\Grzesiek\\Desktop\\my-app\\my-app\\target\\sw.ts",
+  "pwaEnabled": false,
+  "offlineEnabled": false,
+  "offlinePath": "'offline.html'"
+}
