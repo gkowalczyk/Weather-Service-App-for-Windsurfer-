@@ -37,7 +37,6 @@ open browser:
 ```bash
 localhost:8090/weathergui or directly https://go-surf-app.onrender.com/weathergui
 ```
-
 ### Frontend:
 
 ![alt text for image](https://github.com/gkowalczyk/Weather-Service-App-for-Windsurfer/blob/main/src/main/resources/ScreenRecorderProject2.gif)
