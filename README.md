@@ -1,4 +1,4 @@
-#                              "Find The Best Place Surf Spot App"  [- WEBSITE LINK](https://go-surf-app.onrender.com/weathergui)
+#                              "Find The Best Place Surf Spot App"  [- WEBSITE LINK](https://github.com/gkowalczyk/Weather-Service-App-for-Windsurfer-)
 
 ![alt text for image](https://www.stuartsurf.com.au/wp-content/uploads/X-F-Rap-slider-Jul2020.jpg)
 
@@ -35,17 +35,16 @@ docker-compose up
 ```
 open browser:
 ```bash
-localhost:8090/weathergui or directly https://go-surf-app.onrender.com/weathergui
+localhost:8090/weathergui or directly https://github.com/gkowalczyk/Weather-Service-App-for-Windsurfer-
 ```
 ### Frontend:
 
-![alt text for image](https://github.com/gkowalczyk/Weather-Service-App-for-Windsurfer/blob/main/src/main/resources/ScreenRecorderProject2.gif)
+![alt text for image](https://github.com/gkowalczyk/Weather-Service-App-for-Windsurfer-/blob/main/src/main/resources/ezgif.com-video-to-gif.gif)
 
-![alt text for image](https://github.com/gkowalczyk/Weather-Service-App-for-Windsurfer/blob/main/src/main/resources/frontend.png)
 
 ### Postman Endpoints tests:
 
 - GET /v1/get  : Query Params  date format is "yyyy-MM-dd"
-  ![alt text for image](https://github.com/gkowalczyk/Weather-Service-App-for-Windsurfer/blob/main/src/main/resources/postman_get.png)
-  ![alt text for image](https://github.com/gkowalczyk/Weather-Service-App-for-Windsurfer/blob/main/src/main/resources/postman_exception.png)
+  ![alt text for image](https://github.com/gkowalczyk/Weather-Service-App-for-Windsurfer-/blob/main/src/main/resources/postman%20-GET.png)
+  ![alt text for image](https://github.com/gkowalczyk/Weather-Service-App-for-Windsurfer-/blob/main/src/main/resources/postman_EXCEPTION%20-GET.png)
  
