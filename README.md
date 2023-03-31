@@ -35,7 +35,7 @@ docker-compose up
 ```
 open browser:
 ```bash
-localhost:8082/weathergui or directly https://go-surf-app.onrender.com/weathergui
+localhost:8090/weathergui or directly https://go-surf-app.onrender.com/weathergui
 ```
 
 ### Frontend:
