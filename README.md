@@ -1,4 +1,4 @@
-#                              "Find The Best Place Surf Spot App"  [- WEBSITE LINK](https://github.com/gkowalczyk/Weather-Service-App-for-Windsurfer-)
+#                              "Find The Best Place Surf Spot App"  [- WEBSITE LINK](https://find-the-best-place-surf-spot-app.onrender.com/weathergui)
 
 ![alt text for image](https://www.stuartsurf.com.au/wp-content/uploads/X-F-Rap-slider-Jul2020.jpg)
 
@@ -35,7 +35,7 @@ docker-compose up
 ```
 open browser:
 ```bash
-localhost:8090/weathergui or directly https://github.com/gkowalczyk/Weather-Service-App-for-Windsurfer-
+localhost:8090/weathergui or directly https://find-the-best-place-surf-spot-app.onrender.com/weathergui
 ```
 ### Frontend:
 
